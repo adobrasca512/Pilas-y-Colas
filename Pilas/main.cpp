@@ -7,6 +7,7 @@ struct date{
     date *next;
 };
 
+//Pendiente de revisión
 
 struct box{
     int exp;
